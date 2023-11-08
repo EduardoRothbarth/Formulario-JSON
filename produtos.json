@@ -8,14 +8,14 @@
         },
         {
             "id":2,
-            "nome":"Galaxy A23",
-            "descricao":"Preto 128GB, 4GB RAM, Tela Infinita 6.6”, Câmera Traseira Quádrupla, Bateria de 5000mAh e Processador Snapdragon 680 4G",
+            "nome":"Lâmpada Led",
+            "descricao":"Vela E14 3w 2700k Amarela",
             "preco": 1199.00
         },
         {
             "id":3,
-            "nome":"Galaxy M53",
-            "descricao":"5G Verde 128GB, 8GB de RAM, Processador Octa-Core, Câmera Quádrupla, Selfie de 32MP, Tela Infinita de 6.7”",
+            "nome":"Lâmpada Led",
+            "descricao":"Tubular T5 G5 10w 3000k Amarela”",
             "preco":1749.00
         }
     ],
@@ -39,23 +39,23 @@
             "preco":7649.10
         }
     ],
-    "Xiaomi":[
+    "CaboFlexivel":[
         {
             "id":7,
-            "nome":"Redmi Note 11",
-            "descricao":"Azul Tela de 6,43”, 128GB, 4GB de RAM, Câmera Traseira Quádrupla, Android 11 e Processador Snapdragon 680",
+            "nome":"Cabo Flexível",
+            "descricao":"1,5mm Cor Azul 750v Rolo 100 metros",
             "preco":1550.00
         },
         {
             "id":8,
-            "nome":"Redmi 9T",
-            "descricao":"4GB+64GB Bateria 6000mAh Câmera Quádrupla 48+8+2+2MP Tela 6.53” Azul",
+            "nome":"Cabo Flexível",
+            "descricao":"2,5mm Cor Cinza 750v Rolo 100 metros",
             "preco":1604.55
         },
         {
             "id":9,
-            "nome":"Redmi 10C",
-            "descricao":"128GB 4GB RAM Tela 6,71” - Azul",
+            "nome":"Cabo Flexível",
+            "descricao":"4mm Cor Preta 750v Rolo 100 metros",
             "preco":1250.00
         }
     ]
