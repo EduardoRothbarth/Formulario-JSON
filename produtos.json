@@ -4,19 +4,19 @@
             "id":1,
             "nome":"Lâmpada Led",
             "descricao":"Bulbo E27 9w 6500k Branca",
-            "preco": 599.00
+            "preco": 9.12
         },
         {
             "id":2,
             "nome":"Lâmpada Led",
             "descricao":"Vela E14 3w 2700k Amarela",
-            "preco": 1199.00
+            "preco": 16.13
         },
         {
             "id":3,
             "nome":"Lâmpada Led",
             "descricao":"Tubular T5 G5 10w 3000k Amarela”",
-            "preco":1749.00
+            "preco": 6.34
         }
     ],
     "Chuveiro":[
@@ -24,19 +24,19 @@
             "id":4,
             "nome":"Chuveiro Elétrico",
             "descricao":"Lorenzetti Acqua Storm Ultra Cor Branco 6800W 220V",
-            "preco":2879.10
+            "preco":547.68
         },
         {
             "id":5,
             "nome":"Chuveiro Elétrico",
             "descricao":"Lorenzetti Acqua Duo Cromado 6800W 220V",
-            "preco":4364.10
+            "preco":641.95
         },
         {
             "id":6,
             "nome":"Chuveiro Elétrico",
             "descricao":"Lorenzetti Duo Shower Multitemperaturas 6800W 220V",
-            "preco":7649.10
+            "preco":241.45
         }
     ],
     "CaboFlexivel":[
@@ -44,19 +44,19 @@
             "id":7,
             "nome":"Cabo Flexível",
             "descricao":"1,5mm Cor Azul 750v Rolo 100 metros",
-            "preco":1550.00
+            "preco":111.90
         },
         {
             "id":8,
             "nome":"Cabo Flexível",
             "descricao":"2,5mm Cor Cinza 750v Rolo 100 metros",
-            "preco":1604.55
+            "preco":175.90
         },
         {
             "id":9,
             "nome":"Cabo Flexível",
             "descricao":"4mm Cor Preta 750v Rolo 100 metros",
-            "preco":1250.00
+            "preco":284.90
         }
     ]
 }
