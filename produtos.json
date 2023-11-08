@@ -19,23 +19,23 @@
             "preco":1749.00
         }
     ],
-    "PlacaSinalizacao":[
+    "Chuveiro":[
         {
             "id":4,
-            "nome":"Placa Sinalização",
-            "descricao":"Saída de Emergência BiVolt Led 2 Faces Vermelho",
+            "nome":"Chuveiro Elétrico",
+            "descricao":"Lorenzetti Acqua Storm Ultra Cor Branco 6800W 220V",
             "preco":2879.10
         },
         {
             "id":5,
-            "nome":"iPhone 13",
-            "descricao":"128GB Meia-noite Tela de 6,1”, Câmera Dupla de 12MP",
+            "nome":"Chuveiro Elétrico",
+            "descricao":"Lorenzetti Acqua Duo Cromado 6800W 220V",
             "preco":4364.10
         },
         {
             "id":6,
-            "nome":"iPhone 14 Pro Max",
-            "descricao":"128GB Prateado, Tela Super Retina XDR de 6,7” com tela Sempre Ativa e ProMotion, Dynamic Island, uma nova forma de interação no iPhone, Câmera grande-angular de 48MP para resolução até 4x maior",
+            "nome":"Chuveiro Elétrico",
+            "descricao":"Lorenzetti Duo Shower Multitemperaturas 6800W 220V",
             "preco":7649.10
         }
     ],
